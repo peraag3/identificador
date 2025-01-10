@@ -6,8 +6,5 @@ O funcionamento é bem direto: basta o usuário colocar o ano de nascimento e es
 
 Este projeto usa HTML5 para estruturar a página, CSS3 para dar aquele visual bacana e responsivo, e JavaScript para fazer tudo funcionar — desde o cálculo da idade até a troca de mensagens e imagens na página.
 
-Para usar o projeto, é só clonar o repositório com o comando git clone https://github.com/SEU_USUARIO/VERIFICADOR_DE_IDADE.git. Depois, basta abrir o arquivo index.html no seu navegador, preencher o ano de nascimento, escolher o sexo e clicar no botão "Verificar". Você verá a mensagem e a imagem do gênero escolhido!
-
 Você pode personalizar o projeto facilmente, trocando as imagens ou até modificando o design. As imagens que estão lá por padrão são noite1.png e noite1 (1).png, mas você pode colocar as que preferir, desde que altere o nome delas no código. Também é possível ajustar o design através do CSS para deixar o visual do jeito que quiser.
 
-Se quiser contribuir ou sugerir melhorias, fique à vontade para abrir um pull request ou relatar qualquer problema.
